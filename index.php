@@ -38,7 +38,7 @@ define("DEFAULT_THEME","default");
 define("TMPL_PATH","./".APP_PATH."View/".DEFAULT_THEME."/");
 // 开启调试
 define('APP_DEBUG', true);
-
+ehcho "dddd";die;
 // 引入ThinkPHP入口文件
 require THINK_PATH . 'ThinkPHP.php';
 ?>
